@@ -1,6 +1,6 @@
 # 899D  
 
-Stangig 899D Combo_Hot_Air_Soldering_Station
+Standig 899D Combo_Hot_Air_Soldering_Station
 
 Here is a mostly complete schematic and PCB pics of my 899D combo hot air & soldering station. 
 Note, the schematic is a modified copy of the schematic from acbaruth/898D repository.  I have
