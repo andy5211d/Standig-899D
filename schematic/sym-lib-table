@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Driver_LED_Titan")(type "KiCad")(uri "${KIPRJMOD}/Driver_LED_Titan.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_Zilog")(type "KiCad")(uri "${USER_SYMBOL_DIR}/MCU_Zilog.kicad_sym")(options "")(descr ""))
+)
