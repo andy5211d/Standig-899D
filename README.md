@@ -2,7 +2,7 @@ Standig 899D Combo Hot Air & Soldering Station
 
 Here is a mostly complete schematic and PCB pics of my 899D combo hot air & soldering station. 
 Note, the schematic is a modified copy of the schematic from acbaruth/898D repository.  I have
-not checked very component to see it they are correct for the 899D however the PCBs are 
+not checked every component to see it they are correct for the 899D however the PCBs are 
 simmular but not identical.
 
 The Standig unit uses a 6 pin soldering iron connector. I have also used a Yihua 907H soldering
