@@ -10,7 +10,7 @@ iron sucessfully (as it comes with a 6pin plug and has a movement sensor).  But 
 connections of the iron must be modified by swapping over two wires as per the 899D schematic
 for it to work.  
 
-The Standig uses front panel switches (SMD Rework Station and Solkdering Station) to switch
+The Standig uses front panel switches (SMD Rework Station and Soldering Station) to switch
 230V AC to the unit.  However these switches also have 5V logic for the soft switching
 with I suspect with no internal protection! Simmulary the PCB has poor track layout and 
 seperation between the 230V and the 5V parts with no PCB cutouts providing tracking distance 
