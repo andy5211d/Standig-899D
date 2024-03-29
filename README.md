@@ -13,7 +13,7 @@ for it to work.
 The Standig uses front panel switches (SMD Rework Station and Soldering Station) to switch
 230V AC to the unit.  However these switches also have 5V logic for the soft switching
 with I suspect with no internal protection! Simmulary the PCB has poor track layout and 
-seperation between the 230V and the 5V parts with no PCB cutouts providing tracking distance 
+seperation between the 230V and the 5V parts with no PCB cutouts providing creepage distance 
 enhancement.  
 
 Also note:  Bleed resistor R4, in the Top Header area of the schematic, which is the 230V AC
