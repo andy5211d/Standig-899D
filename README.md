@@ -16,7 +16,7 @@ with I suspect with no internal protection! Simmulary the PCB has poor track lay
 seperation between the 230V and the 5V parts with no PCB cutouts providing tracking distance 
 enhancement.  
 
-Also note:  Resistor R4 in the Top Header which is 230V AC control to the Hot Air heater needs
-to be changed to 560K 1/2W, it is supplied with 120K 1/8W and mine was black due to overheating.
-I have also fitted a heatsink to the fan motor controller triac as mine was hot after a short
-period of use.  
+Also note:  Bleed resistor R4, in the Top Header area of the schematic, which is the 230V AC
+control to the Hot Air heater needs to be changed to 560K 1/2W as a min, it is supplied with
+120K 1/8W and mine was black due to overheating. I have also fitted a heatsink to the hot air
+fan motor controller triac as mine was hot after a short period of use.  
