@@ -6,8 +6,8 @@ not checked every component to see it they are correct for the 899D however the 
 simmular but not identical.
 
 The Standig unit uses a 6 pin soldering iron connector. I have also used a Yihua 907H soldering
-iron sucessfully (as it comes with a 6pin plug and also has a movement sensor).  But the interal 
-connections of the iron must be modified by swapping over two wires as per the 899D schematic
+iron sucessfully (as it comes with a 6pin plug and also has a movement sensor).  But the internal 
+connections of the iron must be modified by swapping over two wires as per the 899D schematic,
 for it to work.  The temp control will need re-calibration if using the Yihua iron.  
 
 The Standig uses front panel switches (SMD Rework Station and Soldering Station) to switch
